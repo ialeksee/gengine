@@ -59,3 +59,8 @@ cmake-build-*
 # Appveyor
 ####
 build_appveyor
+####
+#XCode
+###
+.DS_Store
+

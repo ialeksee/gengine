@@ -7,6 +7,8 @@
 #pragma once
 #include "Actor.h"
 
+
+class Actor;
 class Color32;
 class UICanvas;
 
